@@ -1,0 +1,59 @@
+body
+{
+    margin: auto;
+    color: white;
+    background-color: black;
+    font-family: 'Acme', sans-serif;
+    font-family: 'Lato', sans-serif;
+}
+
+h1
+{
+    color: red;
+}
+
+.image
+{
+    position: relative;
+    padding-right: 300px;
+}
+
+p
+{
+    text-align: center;
+}
+
+.quote
+{
+    display: inline;
+    position: absolute;
+    top: 37%;
+}
+
+img
+{
+    height: 300px;
+    width: 300px;
+}
+
+.intro, .image, .links
+{
+    text-align: center;
+}
+
+#bio
+{
+    display: table;
+    margin: 0 auto;
+}
+
+.wiki, .docu
+{
+    display: inline;
+    padding: 10px;
+}
+
+a
+{
+    color: red;
+}
